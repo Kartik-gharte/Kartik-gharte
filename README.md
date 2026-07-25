@@ -107,7 +107,7 @@ A decentralized parcel delivery platform connecting travellers and senders for e
 `React` `Node.js` `Express` `SQLite`
 
 🔗 **Repository:**  
-<a href="">Smart Parcel Delivery</a>
+<a href="https://github.com/Kartik-gharte/smart-parcel-delivery.git">Smart Parcel Delivery</a>
 
 </td>
 
