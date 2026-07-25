@@ -52,3 +52,80 @@ and <strong>Open Source</strong> while developing scalable web applications.
 ### 🤖 Currently Exploring
 
 `Artificial Intelligence` • `Machine Learning` • `System Design`
+
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Attendance System
+
+> **🚀 Actively Developing**
+
+An AI-powered smart attendance system using **Face Recognition** to automate classroom attendance with a complete admin dashboard.
+
+**Tech Stack**
+
+`Java` `Spring Boot` `React` `MySQL` `OpenCV`
+
+🔗 **Repository:**  
+YOUR_REPO_LINK
+
+</td>
+
+<td width="50%">
+
+### 🛡️ SafeRoute
+
+> **🏆 Hackathon Project**
+
+A women’s safety platform featuring **SOS Alerts, Live Location Sharing, Emergency Contacts, and Safe Navigation**.
+
+**Tech Stack**
+
+`React` `Firebase` `Google Maps API`
+
+🔗 **Repository:**  
+YOUR_REPO_LINK
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📦 Smart Parcel Delivery
+
+> **📚 Academic Project**
+
+A decentralized parcel delivery platform connecting travellers and senders for efficient package transportation.
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `SQLite`
+
+🔗 **Repository:**  
+YOUR_REPO_LINK
+
+</td>
+
+<td width="50%">
+
+### 🌐 Rivoli Restaurant Website
+
+> **💼 Client Project**
+
+A modern luxury restaurant website developed for **Rivoli Nashik** with a premium UI and responsive design.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+🌍 **Live Website:**  
+https://rivolinashik.in
+
+</td>
+</tr>
+</table>
