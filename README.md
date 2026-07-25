@@ -131,28 +131,5 @@ https://rivolinashik.in
 </table>
 
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kartik-gharte&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kartik-gharte&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-gharte&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik-gharte&theme=tokyonight&hide_border=true" />
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartik-gharte&theme=tokyo-night&hide_border=true" />
-</p>
-
 
 
