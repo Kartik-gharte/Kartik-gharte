@@ -4,20 +4,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Developer;MERN+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Building+Real-World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
-<h3 align="center">🚀 Building Intelligent Solutions with AI & Full Stack Development</h3>
+<h3 align="center">💫 Turning Ideas into Intelligent Software</h3>
 
 <p align="center">
-Computer Science & Technology Undergraduate passionate about Artificial Intelligence,
-Full Stack Development, and solving real-world problems through technology.
+I'm a <strong>Computer Science & Technology</strong> undergraduate passionate about
+<strong>Artificial Intelligence</strong>, <strong>Full Stack Development</strong>,
+and building technology that solves real-world problems.
 </p>
 
 <p align="center">
-Currently building scalable applications, contributing to Open Source, and continuously
-learning Data Structures & Algorithms, Machine Learning, and System Design.
+Currently exploring <strong>Machine Learning</strong>, <strong>System Design</strong>,
+and <strong>Open Source</strong> while developing scalable web applications.
 </p>
 
 <p align="center">
-💻 Java • MERN Stack • AI • Machine Learning • Open Source
+⚡ Java • MERN Stack • AI • Problem Solving
 </p>
 
 <br>
