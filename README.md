@@ -20,5 +20,35 @@ and <strong>Open Source</strong> while developing scalable web applications.
 <p align="center">
 ⚡ Java • MERN Stack • AI • Problem Solving
 </p>
-
 <br>
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
+
+### 🤖 Currently Exploring
+
+`Artificial Intelligence` • `Machine Learning` • `System Design`
