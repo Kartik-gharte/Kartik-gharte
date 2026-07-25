@@ -71,7 +71,7 @@ An AI-powered smart attendance system using **Face Recognition** to automate cla
 `Java` `Spring Boot` `React` `MySQL` `OpenCV`
 
 🔗 **Repository:**  
-YOUR_REPO_LINK
+<a href="https://github.com/Kartik-gharte/attendo.git">AI Attendance System</a>
 
 </td>
 
