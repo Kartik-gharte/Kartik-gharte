@@ -88,7 +88,7 @@ A women’s safety platform featuring **SOS Alerts, Live Location Sharing, Emerg
 `React` `Firebase` `Google Maps API`
 
 🔗 **Repository:**  
-YOUR_REPO_LINK
+<a href="https://github.com/Kartik-gharte/saferoute.git">SafeRoute</a>
 
 </td>
 </tr>
@@ -107,7 +107,7 @@ A decentralized parcel delivery platform connecting travellers and senders for e
 `React` `Node.js` `Express` `SQLite`
 
 🔗 **Repository:**  
-YOUR_REPO_LINK
+<a href="">Smart Parcel Delivery</a>
 
 </td>
 
