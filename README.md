@@ -20,13 +20,13 @@ and <strong>Open Source</strong> while developing scalable web applications.
 <p align="center">
 ⚡ Java • MERN Stack • AI • Problem Solving
 </p>
-<br>
+
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Kartik Gharte/" target="_blank">
+  <a href="https://www.linkedin.com/in/kartik-gharte-0509772b1" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-2867B2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:gharatekartik45@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D84A3A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <br/>
