@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kartik Gharte</h1>
+9<h1 align="center">Hi 👋, I'm Kartik Gharte</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Developer;MERN+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Building+Real-World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
@@ -26,7 +26,7 @@ and <strong>Open Source</strong> while developing scalable web applications.
   <a href="https://www.linkedin.com/in/kartik-gharte-0509772b1" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-2867B2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:gharatekartik45@gmail.com">
+  <a href="mailto:work.kartikgharte@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D84A3A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <br/>
