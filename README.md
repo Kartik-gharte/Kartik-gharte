@@ -22,6 +22,18 @@ and <strong>Open Source</strong> while developing scalable web applications.
 </p>
 <br>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/Kartik Gharte/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-2867B2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D84A3A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-555555?style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Kartik-gharte&style=for-the-badge&color=2867B2&label=%20" alt="Profile Views Count"/>
+</p>
+
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
